@@ -4,5 +4,7 @@
 
 [![LamTong's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamTOng&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=LamTong&theme=swift&border_radius=20&card_width=600)](https://git.io/streak-stats)
+
 [![LamTong's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LamTong&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
